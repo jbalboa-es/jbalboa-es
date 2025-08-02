@@ -12,16 +12,6 @@ I am an active student and my strongest subjects are related to databases, web d
 - 📝 I'm currently completing Google's Professional Cybersecurity Certification and a Python course in Udemy
 
 <!--
-Portfolio activity 1:
-What are your strengths (ones you currently have or plan to develop)?
-What are your values?
-What interests you most about a career in cybersecurity?
-How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
-
-Portfolio activity 2:
-
-
-
 **jbalboa-es/jbalboa-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
