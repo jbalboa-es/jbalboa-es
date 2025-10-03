@@ -1,5 +1,5 @@
 <h1> Hi, I'm Juan 👋 </h1>
-<h2> Computer Science Student at University of Chile </h2>
+<h2> Computer Engineering Student at University of Chile </h2>
 
 <h2> About Me </h2>
 
